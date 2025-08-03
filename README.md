@@ -1,1 +1,1 @@
-atommagnesium
+atommagnesium.githb.io
